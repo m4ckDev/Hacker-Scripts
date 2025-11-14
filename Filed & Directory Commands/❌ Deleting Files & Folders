@@ -1,0 +1,7 @@
+rm file.txt              # Delete file
+
+rm -i file.txt           # Ask before delete
+
+rm -rf folder/           # Force delete folder ⚠️
+
+rmdir emptydir/          # Remove empty folder
