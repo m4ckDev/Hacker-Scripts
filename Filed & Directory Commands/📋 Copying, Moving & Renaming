@@ -1,0 +1,9 @@
+cp file.txt /tmp/        # Copy file to /tmp
+
+cp -r dir1 dir2          # Copy folder recursively
+
+cp -i file.txt file.bak  # Copy with confirm
+
+mv file.txt /tmp/        # Move file to /tmp
+
+mv old.txt new.txt       # Rename file
