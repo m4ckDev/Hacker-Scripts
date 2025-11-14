@@ -1,0 +1,11 @@
+cat file.txt      # Show file content
+
+head file.txt     # First 10 lines
+
+head -n 20 file.txt  # First 20 lines
+
+tail file.txt     # Last 10 lines
+
+tail -f logs.txt  # Live view file changes
+
+less file.txt     # Scroll file (q to quit)
