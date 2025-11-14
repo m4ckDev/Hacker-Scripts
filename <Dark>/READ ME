@@ -29,6 +29,25 @@ This guide covers **only the legal side**.
 
 Official Tor Browser: https://www.torproject.org/download/
 
+### **2. Open Tor Browser**
+Once installed:
+- Launch Tor Browser  
+- Wait for it to connect to the Tor network  
+- You now have access to `.onion` domains
+
+### **3. Enter an .onion link directly**
+Example: http://protonirockerxow.onion
+
+Regular browsers (Chrome, Edge, Safari) **cannot** open `.onion` links.
+
+---
+
+# 🛡️ Safe & Verified .onion Links
+
+These are public, legitimate, and widely documented — safe for research and training.
+
+### **🔵 ProtonMail (Secure Email)**
+
 All safe. All legal. All vetted.
 
 ---
