@@ -1,0 +1,5 @@
+mkdir test        # Create folder "test"
+
+mkdir -p a/b/c    # Create nested dirs
+
+touch file.txt    # Create or update file
