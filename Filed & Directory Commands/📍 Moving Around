@@ -1,0 +1,9 @@
+wd               # Print current directory
+
+cd /etc           # Go to /etc directory
+
+cd ~              # Go to home directory
+
+cd ..             # Go up one level
+
+cd -              # Go to previous directory
