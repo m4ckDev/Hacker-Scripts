@@ -1,0 +1,55 @@
+< Breach Animation Packs >
+
+[■□□□□□□□□□] 10%  - Initiating breach...
+[■■□□□□□□□□] 20%
+[■■■□□□□□□□] 30%
+[■■■■□□□□□□] 40%
+[■■■■■□□□□□] 50%
+[■■■■■■□□□□] 60%
+[■■■■■■■□□□] 70%
+[■■■■■■■■□□] 80%
+[■■■■■■■■■□] 90%
+[■■■■■■■■■■] 100% BREACHED BY M4K
+
+Matrix Rain Animation (Green hacker rain)
+
+1010101010101010010100101010101
+0101101010010101001010100101010
+1100101010101010100101010101011
+
+Red Alert Blinking Screen
+
+!!! RED ALERT — BREACHED BY M4K !!!
+
+Fake Kernel Panic Animation
+
+[  0.000132] Kernel panic - not syncing: Attempted to kill init!
+[  0.000234] CPU: 0 PID: 1 Comm: init Not tainted 5.15.0 #1
+
+Bootloader Scroll Hack (Animated)
+
+[OK] Loading initramfs...
+[OK] Checking integrity...
+[FAILED] Security violation detected.
+[OK] Handing over control to M4K payload...
+
+"Access Granted" Loader
+
+ACCESSING SYSTEM...
+[///////            ] 34%
+[/////////////      ] 67%
+[///////////////////] 100%
+
+ACCESS GRANTED to (Alias goes here)
+
+Ransomware Countdown
+
+SIMULATION: Your system will "lock" in:
+10
+9
+8
+7
+...
+1
+BREACHED BY (Alias goes here)
+
