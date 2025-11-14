@@ -1,0 +1,9 @@
+find / -name "*.conf" 2>/dev/null   # Find .conf files (ignore errors)
+
+find . -type f -size +10M           # Find files >10MB
+
+grep "root" /etc/passwd             # Search "root" in file
+
+grep -r "password" /etc/            # Recursive search
+
+grep -i "user" file.txt             # Case-insensitive search
