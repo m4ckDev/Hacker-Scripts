@@ -1,0 +1,119 @@
+# 🌑 Dark Web Access Guide (Safe + Legal)
+
+This folder provides educational material for **safe, legal access to the Tor network** and public `.onion` websites.  
+Nothing here encourages or supports illegal markets, cybercrime, or harmful content.
+
+This guide teaches:
+- What the **dark web** actually is  
+- How to access **safe, legitimate .onion sites**  
+- How to use **Tor Browser** the right way  
+- How to stay private and avoid dangerous sites  
+
+---
+
+# 🕸️ What Is the Dark Web?
+
+The “dark web” refers to websites that are only accessible through **Tor**, a privacy-focused network that hides your IP address by routing your traffic through multiple encrypted relays.
+
+`.onion` sites exist **outside the regular internet**, and you need special tools to reach them.
+
+The dark web is **not illegal** — but many activities on it are.  
+This guide covers **only the legal side**.
+
+---
+
+# 🧭 How To Access .onion Sites (Step-By-Step)
+
+### **1. Download Tor Browser (official site only)**
+**Never** download Tor from anywhere else — cloned installers are filled with malware.
+
+Official Tor Browser:
+https://www.torproject.org/download/
+
+
+### **2. Open Tor Browser**
+Once installed:
+- Launch Tor Browser  
+- Wait for it to connect to the Tor network  
+- You now have access to `.onion` domains
+
+### **3. Enter an .onion link directly**
+Example:http://protonirockerxow.onion
+
+
+Regular browsers (Chrome, Edge, Safari) **cannot** open `.onion` links.
+
+---
+
+# 🛡️ Safe & Verified .onion Links
+
+These are public, legitimate, and widely documented — safe for research and training.
+
+### **🔵 ProtonMail (Secure Email)**
+http://protonirockerxow.onion
+
+
+### **🟣 Tor Project (Official Tor Site)**
+http://expyuzz4wqqyqhjn.onion
+
+
+### **🟢 DuckDuckGo (Private Search)**
+http://duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion
+
+### **🔴 SecureDrop (Whistleblowing / Journalists)**
+http://secrdrop5wyphb5x.onion
+
+### **📰 The Intercept SecureDrop**
+http://intrcept32ncblef.onion
+
+All safe. All legal. All vetted.
+
+---
+
+# ⚠️ Safety Rules for New Users
+
+- **Do NOT** maximize the Tor Browser window (helps fingerprinting)  
+- **Do NOT** log into personal accounts  
+- **Do NOT** install unknown packages, scripts, or downloads  
+- **Do NOT** enable JavaScript on unknown onion sites  
+- **Do NOT** browse with a VPN unless you know exactly why (Tor > VPN is safer)  
+- **Do NOT** visit markets, carding sites, drug sites, exploit shops, or criminal services  
+
+This folder and guide are for **education, cybersecurity awareness, and OSINT** only.
+
+---
+
+# 🔥 Recommended for Maximum Safety
+
+If you want an extra layer of anonymity:
+
+### ✔ Use **Tails OS**
+Bootable amnesic operating system. Leaves no trace.
+
+https://tails.net/
+
+### ✔ Use a **dedicated research VM**
+Never use your daily driver computer.
+
+---
+
+# 📚 Purpose of This Folder
+
+This is not a dark web “bookmark” pack.  
+This folder exists to:
+
+- teach safe Tor usage  
+- help new cyber students understand onion routing  
+- provide legal access references  
+- support cyber awareness training  
+
+Everything here stays **above board** and helps users learn safely.
+
+---
+
+# 🧩 Maintainer
+
+Maintained by **M4K**  
+CyberOps Sim Architect  
+
+
