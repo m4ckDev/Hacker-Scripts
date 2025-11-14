@@ -1,0 +1,7 @@
+ls                # List files and folders
+
+ls -l             # Detailed list (perms, size, date)
+
+ls -la            # Include hidden files
+
+ls -lh            # Human-readable sizes
